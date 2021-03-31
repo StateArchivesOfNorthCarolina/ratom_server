@@ -23,7 +23,7 @@ dj-database-url==0.5.0
 Pillow==6.2.0
 psycopg2-binary==2.8.4
 whitenoise==4.1.4
-lxml==4.4.1
+lxml==4.6.3
 libratom==0.2.5
 boto3==1.11.0
 requests-aws-sign==0.1.5
